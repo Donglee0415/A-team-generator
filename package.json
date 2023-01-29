@@ -1,0 +1,28 @@
+{
+  "name": "a-team-generator",
+  "version": "1.0.0",
+  "description": "app to create team profile generator ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donglee0415/A-team-generator.git"
+  },
+  "author": "Nicole Wallace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donglee0415/A-team-generator/issues"
+  },
+  "homepage": "https://github.com/donglee0415/A-team-generator#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
